@@ -1,0 +1,18 @@
+Salut ben!!
+
+
+J'ai utilise deux tableau pour ce projet, un users, pour les users... et un messages pour les??? messages.
+
+J'ai utilise une class Registration pour tout le cote inscription.
+
+Pour le cote securite, j'ai utilise l'objet PDO parce qu'en fouillant sur internet j'ai vu qu'il y avait la possibilite d'utiliser la fonction prepare et execute au lieu de query, ce qui permet d'ameliorer la securite en plus du htmlentities.
+
+On peut envoyer des messages a toutes les personnes inscrites.
+
+On peut rafraichir la page si on reste sur une conversation pour voir si on a de nouveaux message, mais la page s'actualise deja lorsque l'on clique sur un nouveau contact.
+
+J'ai utilise un cookie pour pouvoir rester connecte si on ferme la page, mais le cookie se detruit directement lors de la deconnection.
+
+Je n'ai pas mis de fonctionnalite d'images, pcq je ne vois pas l'utilite vu que c'est en local, ou alors je suis passe a cote de quelque chose.
+
+Voila, ecoute merci beaucoup!!
